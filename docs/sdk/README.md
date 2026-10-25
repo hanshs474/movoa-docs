@@ -5,7 +5,7 @@ Official clients for [Movoa](https://movoa.ai/?utm_source=readthedocs&utm_medium
 | Language | Install | Source |
 |---|---|---|
 | Python | `pip install movoa` | [hanshs474/movoa-py](https://github.com/hanshs474/movoa-py) |
-| JavaScript / TypeScript | `npm install movoa` | [hanshs474/movoa-ts](https://github.com/hanshs474/movoa-ts) |
+| JavaScript / TypeScript | `npm install movoa-ai` | [hanshs474/movoa-ts](https://github.com/hanshs474/movoa-ts) |
 | Go | `go get github.com/hanshs474/movoa-go` | [hanshs474/movoa-go](https://github.com/hanshs474/movoa-go) |
 | Rust | `cargo add movoa` | [hanshs474/movoa-rs](https://github.com/hanshs474/movoa-rs) |
 | Ruby | `gem install movoa` | [hanshs474/movoa-rb](https://github.com/hanshs474/movoa-rb) |
