@@ -1,0 +1,12 @@
+site_name: Movoa API and SDKs
+site_url: https://movoa.readthedocs.io/
+repo_url: https://github.com/hanshs474/movoa-docs
+site_description: "Unlimited AI video generator with sound: on paid plans the tenth take of a shot costs what the first did, and your first clip is free to make right now. Official API, SDK and MCP documentation for Movoa (movoa.ai)."
+theme: readthedocs
+nav:
+  - Overview: index.md
+  - HTTP API: http.md
+  - Models and parameters: models.md
+  - SDKs: sdk/README.md
+  - MCP server (Claude, Cursor, Gemini CLI): integrations/mcp.md
+  - Command line: integrations/cli.md
