@@ -10,3 +10,7 @@ nav:
   - SDKs: sdk/README.md
   - MCP server (Claude, Cursor, Gemini CLI): integrations/mcp.md
   - Command line: integrations/cli.md
+  - LangChain: integrations/langchain.md
+  - Haystack: integrations/haystack.md
+  - ComfyUI: integrations/comfyui.md
+  - Vercel AI SDK: integrations/ai-sdk.md
